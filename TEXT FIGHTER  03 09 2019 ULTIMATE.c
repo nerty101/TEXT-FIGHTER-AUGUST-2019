@@ -986,9 +986,9 @@ printf("\n");
 diceQ = (rand() % 3) + 1;
 {
 if (diceQ == 1)
-printf("     It was an excellent combo!\n");
+printf("     It was an excellent combination!\n");
 if (diceQ == 2)
-printf("     That was a fantastic combo!\n");
+printf("     That was a fantastic manoeuvre!\n");
 if (diceQ == 3)
 printf("     It was an amazing combination!\n");
 }
@@ -1692,9 +1692,9 @@ diceQ = (rand() % 3) + 1;
 if (diceQ == 1)
 printf("     That was a brilliant combination!\n");
 if (diceQ == 2)
-printf("     That was an awesome combo!\n");
+printf("     That was an awesome routine!\n");
 if (diceQ == 3)
-printf("     That was a very impressive combo!\n");
+printf("     That was a very impressive method!\n");
 }
 if (((new6 < 1)  && (cpusp  > 1) && (ctr < 6)) || ((new6 > 0) && (cpusp < 2) && (ctr < 6)) ||  ((new6 < 1)  && (cpusp < 2) && (ctr < 6)) || ((new6 < 1)  && (cpusp < 2) && (ctr > 5)))
 printf("\n");
